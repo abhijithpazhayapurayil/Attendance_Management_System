@@ -1,0 +1,10 @@
+# Local/server files
+*.log
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+
+# Local XAMPP configuration
+xampp/
